@@ -4,10 +4,12 @@
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
 ##   PROBLEM STATEMENT AND DATASET
-Include the Problem Statement and Dataset.
+Image classification is a fundamental task in computer vision where an input image is assigned to one of several predefined classes. The objective of this experiment is to build and train a Convolutional Neural Network (CNN) using a labeled image dataset and evaluate its performance using accuracy, confusion matrix, and classification report.
 
 ## Neural Network Model
 Include the neural network model diagram.
+<img width="1045" height="719" alt="image" src="https://github.com/user-attachments/assets/8698a327-b269-4aea-a5d7-a9ce24b71374" />
+
 
 ## DESIGN STEPS 
 1. Load and Preprocess Data
@@ -199,21 +201,23 @@ predict_image(model, image_index=80, dataset=test_dataset)
 
 ## Training Loss per Epoch
 
-<img src="https://img.sanishtech.com/u/278f57f830fb7b33f9b98caf082a0f2d.png" alt="Screenshot 2026-03-15 174927" width="358" height="204" loading="lazy" style="max-width:100%;height:auto;">
+<img width="386" height="207" alt="image" src="https://github.com/user-attachments/assets/f8ef4bc8-adf4-4e34-b0b7-8449239704d7" />
 
 
 ## Confusion Matrix
 
-<img src="https://img.sanishtech.com/u/a3b1a2d207b501d4c6f950a10409a52c.png" alt="Screenshot 2026-03-15 175257" width="925" height="805" loading="lazy" style="max-width:100%;height:auto;">
+<img width="791" height="711" alt="image" src="https://github.com/user-attachments/assets/7130915d-6579-41a2-b628-bb9a1db74163" />
+
 
 
 ## Classification Report
 
-<img src="https://img.sanishtech.com/u/fca17f526aa85e730a17b87d90dfd828.png" alt="Screenshot 2026-03-15 175325" width="629" height="442" loading="lazy" style="max-width:100%;height:auto;">
+<img width="501" height="352" alt="image" src="https://github.com/user-attachments/assets/34e62d7c-2b15-41a2-88bb-3ee40cfea5ea" />
 
 ### New Sample Data Prediction
 
-<img src="https://img.sanishtech.com/u/3590fcc749d05ccdaae922a6eb937d8f.png" alt="Screenshot 2026-03-15 175400" width="610" height="623" loading="lazy" style="max-width:100%;height:auto;">
+<img width="411" height="493" alt="image" src="https://github.com/user-attachments/assets/cd18d095-a923-44d3-9b67-a3d0654a22f4" />
+
 
 
 ## RESULT
