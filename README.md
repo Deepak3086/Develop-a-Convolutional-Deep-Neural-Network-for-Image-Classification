@@ -99,8 +99,8 @@ if torch.cuda.is_available():
     model.to(device)
 
 # Print model summary
-print('Name: HEMNATH R')
-print('Register Number: 212224240057')
+print('Name: DEEPAK J G')
+print('Register Number: 212224220019')
 summary(model, input_size=(1, 28, 28))
 
 # Initialize model, loss function, and optimizer
